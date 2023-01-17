@@ -11,18 +11,18 @@ Auf dieser Seite beschreiben wir, wie du mit DBeaver Daten in die Lupa-Datenbank
 2. Beim ersten starten fragt DBeaver ob du eine Datenbank erstellen willst -> Nein
 3. Füge eine Verbindung zum PostgreSQL Server hinzu. Klicke falls notwendig auf das Icon links oben (Stecker mit Plus)
 4. Wähle PostgreSQL (blauer Elephant)
-   ![Connect Dbeaver 1](images/connect-dbeaver-1.jpg)
+   ![Bildschirmfoto von DBeaver](images/connect-dbeaver-1.jpg)
 5. Fülle zuerst die Felder im Reiter **Allgemein** aus:
    - **Datenbank:** lupa_production
    - **Benutzername:** *dein Benutzername*
    - **Passwort:** *dein Passwort*
-   ![Connect Dbeaver 2](images/connect-dbeaver-2.jpg)
+   ![Bildschirmfoto vom Reiter "Allgemein" in den Verbindungseinstellungen](images/connect-dbeaver-2.jpg)
 6. Wechsle dann auf den Reiter **SSH**:
    - **Verwende SSH-Tunnel**: Ja
    - **Host/IP:** lupa.at
    - Benutzer: *nocheinmal dein Benutzername*
    - Passwort: *nocheinmal dein Passwort*
-   ![Connect Dbeaver 3](images/connect-dbeaver-3.jpg)
+   ![Bildschirmfoto vom Reiter "SSH" in den Verbindungseinstellungen](images/connect-dbeaver-3.jpg)
 7. Überprüfe ob alles funktioniert mit dem Button "Verbindung testen…" (links unten). Wahrscheinlich müssen beim ersten Mal noch Treiber geladen werden.
 8. Wenn alles funktiniert, klicke "Fertigstellen"
 9. Nun findest du die neue Verbindung in der Seitenleiste. Um zu den Steindenkmälern zu gelangen, folge diesem Pfad in der Seitenleiste:
@@ -34,4 +34,4 @@ Auf dieser Seite beschreiben wir, wie du mit DBeaver Daten in die Lupa-Datenbank
              - Tabellen
                - monuments
 10. Wechsle in den Reiter "Daten" um den Inhalt der Tabelle anzuzeigen
-    ![Connect Dbeaver 4](images/connect-dbeaver-4.jpg)
+    ![Bildschirmfoto der "monuments"-Tabelle in DBeaver](images/connect-dbeaver-4.jpg)
