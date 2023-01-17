@@ -52,10 +52,10 @@ Wenn du einen Mac hast, empfehle ich Postico zur Dateneingabe.
 8. Wenn alles funktiniert, klicke "Fertigstellen"
 9. Nun findest du die neue Verbindung in der Seitenleiste. Um zu den Steindenkmälern zu gelangen, folge diesem Pfad in der Seitenleiste:
    - lupa_production
-   - Datenbanken
-   - lupa_production
-   - Schemata
-   - public
-   - Tabellen
-   - monuments
+     - Datenbanken
+       - lupa_production
+         - Schemata
+           - public
+             - Tabellen
+               - monuments
 10. Wechsle in den Reiter "Daten" um den Inhalt der Tabelle anzuzeigen
