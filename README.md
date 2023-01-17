@@ -10,7 +10,7 @@ Willkommen zur technischen Dokumentation der archäologischen Datenbank *Ubi Era
 
 ### Dateneingabe
 
-Lupa verwendet eine PostgreSQL-Datenbank. Um Daten in Lupa einzugeben, benötigen Sie einen PostgreSQL-Client.
+Lupa verwendet eine PostgreSQL-Datenbank. Um Daten in Lupa einzugeben, benötigst du einen PostgreSQL-Client.
 Wir empfehlen folgende Programme:
 
 - [Dateneingabe mit Postico](connect-postico) (nur für macOS)
