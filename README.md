@@ -1,5 +1,3 @@
-# Ubi Erat Lupa: Technische Dokumentation
-
 Willkommen zur technischen Dokumentation der archäologischen Datenbank *Ubi Erat Lupa*.
 
 ## Wichtige Links
